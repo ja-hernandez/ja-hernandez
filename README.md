@@ -1,7 +1,8 @@
-### Hi there 👋
-
 <div id="header" align="center" >
-  <img src="https://media.giphy.com/media/demgpwJ6rs2DS/giphy.gif" width="100" />
+![Swedish Chef](https://media.giphy.com/media/demgpwJ6rs2DS/giphy.gif | width=100)
+</div>
+<div id="badges">
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)
 </div>
 <!--
 **ja-hernandez/ja-hernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
